@@ -1,0 +1,5 @@
+{
+  "name": "ATS-Master CV Generator",
+  "description": "A world-class CV generator that uses Gemini AI to analyze job descriptions, create a strategic mind map, and build a 100% ATS-optimized resume with tangible results and clean layout.",
+  "requestFramePermissions": []
+}
